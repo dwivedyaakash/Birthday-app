@@ -9,7 +9,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/birthdayCake"
+        android:src="@drawable/birthday_cake"
         android:scaleType="centerCrop"/>
 
     <TextView
